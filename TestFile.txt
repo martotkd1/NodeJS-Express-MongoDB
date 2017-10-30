@@ -8,3 +8,4 @@ Change in Test1 branch
 [TestDoc]
 [TestDoc2]
 [NewDoc2]
+From master
