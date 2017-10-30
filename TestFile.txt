@@ -1,11 +1,7 @@
-This is a test
-Modification 1
-Test2 - i don't want to commit this change
-Change from Test2 branch
-Change in Test1 branch
 [Pre NewDoc]
 [NewDoc]
 [TestDoc]
 [TestDoc2]
 [NewDoc2]
 [NewDoc3]
+From master
