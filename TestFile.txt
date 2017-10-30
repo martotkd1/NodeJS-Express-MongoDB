@@ -6,3 +6,4 @@ Change in Test1 branch
 [NewDoc]
 [TestDoc]
 [TestDoc2]
+[NewDoc2]
