@@ -3,4 +3,8 @@ Modification 1
 Test2 - i don't want to commit this change
 Change from Test2 branch
 Change in Test1 branch
+<<<<<<< HEAD
 [NewDoc]
+=======
+[TestDoc]
+>>>>>>> TestDocumentation
