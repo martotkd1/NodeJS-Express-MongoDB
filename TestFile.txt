@@ -5,3 +5,4 @@
 [NewDoc2]
 [NewDoc3]
 From master
+From Git for Desktop
